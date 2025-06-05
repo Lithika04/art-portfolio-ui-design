@@ -19,5 +19,5 @@ Created for my sister's artwork display as a digital portfolio.
 ## 📷 Preview
 ![Preview](./ArtPortfolio_UI_Design.png)
 
-## 🔗 Figma Link (optional)
+## 🔗 Figma Link 
 [View on Figma](https://www.figma.com/design/OITjj1txwOYmQXVFxzYHkz/art-website?node-id=0-1&t=p4dvJrYIzK9T84Pq-1)
